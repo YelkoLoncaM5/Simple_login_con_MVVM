@@ -26,3 +26,6 @@ El proyecto sigue la estructura MVVM y está compuesto por los siguientes compon
 ### Requisitos :pushpin:
 - Xcode 13.0 o superior.
 - iOS 15.2 o superior.
+
+### Visualización de la aplicación :iphone:
+![App Pantallas](https://github.com/YelkoLoncaM5/Simple_login_con_MVVM/blob/main/VistaPrevia.png)
